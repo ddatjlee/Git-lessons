@@ -1,0 +1,120 @@
+2025-05-14 13:19:50,197 - INFO - Bỏ qua record: PrintAllInvoiceSo_SOMSNSAFKV97T_UDMgA_1747203588105-1747203588-Invoice (Template Code: Invoice)
+2025-05-14 13:19:50,198 - INFO - Bỏ qua record: PrintAllInvoiceSo_SOMSNJ8YE8HNN_Fds1z_1747203588087-1747203588-Invoice (Template Code: Invoice)
+2025-05-14 13:19:50,198 - INFO - Bỏ qua record: PrintAllInvoiceSo_SOMSNR5IBFP91_uOMTB_1747203583326-1747203583-Invoice (Template Code: Invoice)
+2025-05-14 13:19:50,199 - INFO - Bắt đầu kiểm tra
+2025-05-14 13:19:51,398 - INFO - Bỏ qua record: PrintAllInvoiceSo_SOMSNJ8YE8HNN_Fds1z_1747203588087-1747203588-Invoice (Template Code: Invoice)
+2025-05-14 13:19:51,399 - INFO - Bỏ qua record: PrintAllInvoiceSo_SOMSNSAFKV97T_UDMgA_1747203588105-1747203588-Invoice (Template Code: Invoice)
+2025-05-14 13:19:51,399 - INFO - Bỏ qua record: PrintAllInvoiceSo_SOMSNR5IBFP91_uOMTB_1747203583326-1747203583-Invoice (Template Code: Invoice)
+2025-05-14 13:19:51,400 - INFO - Đang xử lý record: 578833665625655000_shippinglabel_20250514_131948_overlay_pdf_img_tiktok_76x130mm-1747203588-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:19:48.000000)
+2025-05-14 13:19:53,992 - INFO - Đã lưu base64
+2025-05-14 13:19:53,992 - INFO - Đang xử lý record: 578833639604979377_shippinglabel_20250514_131948_overlay_pdf_img_tiktok_76x130mm-1747203588-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:19:48.000000)
+2025-05-14 13:19:56,202 - INFO - Đã lưu base64
+2025-05-14 13:19:58,295 - INFO - Bỏ qua record: PrintAllInvoiceSo_SOMSAGTBPDAKX_hrE2D_1747203596616-1747203596-Invoice (Template Code: Invoice)
+2025-05-14 13:19:58,297 - INFO - Bỏ qua record: PrintAllInvoiceSo_SOMSNGHJIHY3V_q1Hn0_1747203594420-1747203594-Invoice (Template Code: Invoice)
+2025-05-14 13:19:58,297 - INFO - Bỏ qua record: PrintAllInvoiceSo_SOMSNYSCRBYIB_qsm4j_1747203593465-1747203593-Invoice (Template Code: Invoice)
+2025-05-14 13:19:58,298 - INFO - Bỏ qua record: PrintAllInvoiceSo_SOACB7CQMEK3Y_XUrkP_1747203589774-1747203589-Invoice (Template Code: Invoice)
+2025-05-14 13:19:58,299 - INFO - Bỏ qua record: PrintAllInvoiceSo_SOMSNSAFKV97T_UDMgA_1747203588105-1747203588-Invoice (Template Code: Invoice)
+2025-05-14 13:19:58,299 - INFO - Bỏ qua record: PrintAllInvoiceSo_SOMSNJ8YE8HNN_Fds1z_1747203588087-1747203588-Invoice (Template Code: Invoice)
+2025-05-14 13:19:58,300 - INFO - Đang xử lý record: 578833650529371539_shippinglabel_20250514_131955_overlay_pdf_img_tiktok_76x130mm-1747203595-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:19:55.000000)
+2025-05-14 13:20:00,514 - INFO - Đã lưu base64
+2025-05-14 13:20:00,515 - INFO - Đang xử lý record: 578833666174059675_shippinglabel_20250514_131955_overlay_pdf_img_tiktok_76x130mm-1747203595-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:19:55.000000)
+2025-05-14 13:20:02,738 - INFO - Đã lưu base64
+2025-05-14 13:20:02,739 - INFO - Đang xử lý record: 578833640816542739_shippinglabel_20250514_131954_overlay_pdf_img_tiktok_76x130mm-1747203594-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:19:54.000000)
+2025-05-14 13:20:04,968 - INFO - Đã lưu base64
+2025-05-14 13:20:04,969 - INFO - Đang xử lý record: 578833640816542739_shippinglabel_20250514_131954_overlay_pdf_img_tiktok_76x130mm-1747203594-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:19:54.000000)
+2025-05-14 13:20:07,175 - INFO - Đã lưu base64
+2025-05-14 13:20:07,175 - INFO - Đang xử lý record: 578833692900755174_shippinglabel_20250514_131952_overlay_pdf_img_tiktok_76x130mm-1747203592-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:19:52.000000)
+2025-05-14 13:20:09,409 - INFO - Đã lưu base64
+2025-05-14 13:20:09,410 - INFO - Đang xử lý record: 578833640988510161_shippinglabel_20250514_131951_overlay_pdf_img_tiktok_76x130mm-1747203591-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:19:51.000000)
+2025-05-14 13:20:11,684 - INFO - Đã lưu base64
+2025-05-14 13:20:11,684 - INFO - Đang xử lý record: 578833667375072959_shippinglabel_20250514_131951_overlay_pdf_img_tiktok_76x130mm-1747203591-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:19:51.000000)
+2025-05-14 13:20:13,913 - INFO - Đã lưu base64
+2025-05-14 13:20:13,913 - INFO - Đang xử lý record: 578833685429520008_shippinglabel_20250514_131949_overlay_pdf_img_tiktok_76x130mm-1747203590-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:19:50.000000)
+2025-05-14 13:20:16,094 - INFO - Đã lưu base64
+2025-05-14 13:20:16,094 - INFO - Đang xử lý record: 578833708794807768_shippinglabel_20250514_131950_overlay_pdf_img_tiktok_76x130mm-1747203590-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:19:50.000000)
+2025-05-14 13:20:18,426 - INFO - Đã lưu base64
+2025-05-14 13:20:20,804 - INFO - Bỏ qua record: PrintAllInvoiceSo_SOMSNSDTY1CPP_dHxbd_1747203617085-1747203617-Invoice (Template Code: Invoice)
+2025-05-14 13:20:20,805 - INFO - Đang xử lý record: 578833654493316639_shippinglabel_20250514_132017_overlay_pdf_img_tiktok_76x130mm-1747203618-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:18.000000)
+2025-05-14 13:20:23,091 - INFO - Đã lưu base64
+2025-05-14 13:20:23,091 - INFO - Đang xử lý record: 578833708991742985_shippinglabel_20250514_132018_overlay_pdf_img_tiktok_76x130mm-1747203619-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:18.000000)
+2025-05-14 13:20:25,347 - INFO - Đã lưu base64
+2025-05-14 13:20:25,347 - INFO - Đang xử lý record: 578833693342795660_shippinglabel_20250514_132017_overlay_pdf_img_tiktok_76x130mm-1747203618-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:18.000000)
+2025-05-14 13:20:27,534 - INFO - Đã lưu base64
+2025-05-14 13:20:27,534 - INFO - Đang xử lý record: 578833668600071527_shippinglabel_20250514_132017_overlay_pdf_img_tiktok_76x130mm-1747203617-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:17.000000)
+2025-05-14 13:20:29,791 - INFO - Đã lưu base64
+2025-05-14 13:20:29,792 - INFO - Đang xử lý record: 578833667911091859_shippinglabel_20250514_132016_overlay_pdf_img_tiktok_76x130mm-1747203617-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:17.000000)
+2025-05-14 13:20:32,109 - INFO - Đã lưu base64
+2025-05-14 13:20:32,109 - INFO - Đang xử lý record: 578833193997338030_shippinglabel_20250514_131516_overlay_pdf_img_tiktok_76x130mm-1747203616-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:16.000000)
+2025-05-14 13:20:34,306 - INFO - Đã lưu base64
+2025-05-14 13:20:34,306 - INFO - Đang xử lý record: 578833710248068159_shippinglabel_20250514_132015_overlay_pdf_img_tiktok_76x130mm-1747203616-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:16.000000)
+2025-05-14 13:20:36,557 - INFO - Đã lưu base64
+2025-05-14 13:20:36,557 - INFO - Đang xử lý record: 578833685819196582_shippinglabel_20250514_132014_overlay_pdf_img_tiktok_76x130mm-1747203615-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:15.000000)
+2025-05-14 13:20:38,760 - INFO - Đã lưu base64
+2025-05-14 13:20:38,761 - INFO - Đang xử lý record: 578833693335717424_shippinglabel_20250514_132015_overlay_pdf_img_tiktok_76x130mm-1747203615-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:15.000000)
+2025-05-14 13:20:41,255 - INFO - Đã lưu base64
+2025-05-14 13:20:41,256 - INFO - Đang xử lý record: 578833668564420561_shippinglabel_20250514_132014_overlay_pdf_img_tiktok_76x130mm-1747203615-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:14.000000)
+2025-05-14 13:20:43,521 - INFO - Đã lưu base64
+2025-05-14 13:20:43,521 - INFO - Đang xử lý record: 578833710505296960_shippinglabel_20250514_132014_overlay_pdf_img_tiktok_76x130mm-1747203614-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:14.000000)
+2025-05-14 13:20:45,682 - INFO - Đã lưu base64
+2025-05-14 13:20:45,683 - INFO - Đang xử lý record: 578833471762368470_shippinglabel_20250514_131514_overlay_pdf_img_tiktok_76x130mm-1747203614-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:14.000000)
+2025-05-14 13:20:47,958 - INFO - Đã lưu base64
+2025-05-14 13:20:47,958 - INFO - Đang xử lý record: 578833653548812186_shippinglabel_20250514_132013_overlay_pdf_img_tiktok_76x130mm-1747203613-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:13.000000)
+2025-05-14 13:20:50,236 - INFO - Đã lưu base64
+2025-05-14 13:20:50,237 - INFO - Đang xử lý record: 578833653036188951_shippinglabel_20250514_132012_overlay_pdf_img_tiktok_76x130mm-1747203612-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:12.000000)
+2025-05-14 13:20:52,488 - INFO - Đã lưu base64
+2025-05-14 13:20:52,489 - INFO - Đang xử lý record: 578833567333517094_shippinglabel_20250514_131511_overlay_pdf_img_tiktok_76x130mm-1747203612-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:12.000000)
+2025-05-14 13:20:54,760 - INFO - Đã lưu base64
+2025-05-14 13:20:54,761 - INFO - Đang xử lý record: 578833708911723846_shippinglabel_20250514_132012_overlay_pdf_img_tiktok_76x130mm-1747203612-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:12.000000)
+2025-05-14 13:20:57,037 - INFO - Đã lưu base64
+2025-05-14 13:20:57,038 - INFO - Đang xử lý record: 578833654424176577_shippinglabel_20250514_132010_overlay_pdf_img_tiktok_76x130mm-1747203611-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:11.000000)
+2025-05-14 13:20:59,276 - INFO - Đã lưu base64
+2025-05-14 13:20:59,277 - INFO - Đang xử lý record: 578833693633382139_shippinglabel_20250514_132011_overlay_pdf_img_tiktok_76x130mm-1747203611-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:11.000000)
+2025-05-14 13:21:01,512 - INFO - Đã lưu base64
+2025-05-14 13:21:01,512 - INFO - Đang xử lý record: 578833653703345381_shippinglabel_20250514_132009_overlay_pdf_img_tiktok_76x130mm-1747203610-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:10.000000)
+2025-05-14 13:21:04,129 - INFO - Đã lưu base64
+2025-05-14 13:21:06,411 - INFO - Bỏ qua record: PrintAllInvoiceSo_SOMSNXC8QSUVF_Ghnx8_1747203661676-1747203661-Invoice (Template Code: Invoice)
+2025-05-14 13:21:06,412 - INFO - Đang xử lý record: 578833598536713616_shippinglabel_20250514_131557_overlay_pdf_img_tiktok_76x130mm-1747203663-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:21:03.000000)
+2025-05-14 13:21:08,665 - INFO - Đã lưu base64
+2025-05-14 13:21:08,666 - INFO - Đang xử lý record: somsn1dqtuj9g_shippinglabel_1747203657_overlay_pdf_img_shopee_76x130mm-1747203663-overlay_pdf_img_shopee_76x130mm (Time created: 2025-05-14 13:21:03.000000)
+2025-05-14 13:21:10,891 - INFO - Đã lưu base64
+2025-05-14 13:21:10,892 - INFO - Đang xử lý record: 578833703325238682_shippinglabel_20250514_132056_overlay_pdf_img_tiktok_76x130mm-1747203662-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:21:02.000000)
+2025-05-14 13:21:13,113 - INFO - Đã lưu base64
+2025-05-14 13:21:13,113 - INFO - Đang xử lý record: somsnishxt3au_shippinglabel_1747203657_overlay_pdf_img_tiktok_76x130mm-1747203663-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:21:02.000000)
+2025-05-14 13:21:15,343 - INFO - Đã lưu base64
+2025-05-14 13:21:15,343 - INFO - Đang xử lý record: somsn9fbritxi_shippinglabel_1747203657_overlay_pdf_img_tiktok_76x130mm-1747203662-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:21:02.000000)
+2025-05-14 13:21:17,583 - INFO - Đã lưu base64
+2025-05-14 13:21:17,583 - INFO - Đang xử lý record: 578833580703123251_shippinglabel_20250514_131554_overlay_pdf_img_tiktok_76x130mm-1747203661-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:21:01.000000)
+2025-05-14 13:21:19,815 - INFO - Đã lưu base64
+2025-05-14 13:21:19,816 - INFO - Đang xử lý record: 578833670203344597_shippinglabel_20250514_132055_overlay_pdf_img_tiktok_76x130mm-1747203660-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:21:00.000000)
+2025-05-14 13:21:22,097 - INFO - Đã lưu base64
+2025-05-14 13:21:22,098 - INFO - Đang xử lý record: 578833731801285773_shippinglabel_20250514_132055_overlay_pdf_img_tiktok_76x130mm-1747203660-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:21:00.000000)
+2025-05-14 13:21:24,351 - INFO - Đã lưu base64
+2025-05-14 13:21:24,351 - INFO - Đang xử lý record: 578833713595778866_shippinglabel_20250514_132055_overlay_pdf_img_tiktok_76x130mm-1747203660-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:21:00.000000)
+2025-05-14 13:21:26,582 - INFO - Đã lưu base64
+2025-05-14 13:21:26,582 - INFO - Đang xử lý record: 578833694820697630_shippinglabel_20250514_132055_overlay_pdf_img_tiktok_76x130mm-1747203660-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:21:00.000000)
+2025-05-14 13:21:28,840 - INFO - Đã lưu base64
+2025-05-14 13:21:28,840 - INFO - Đang xử lý record: 578833670745589460_shippinglabel_20250514_132053_overlay_pdf_img_tiktok_76x130mm-1747203659-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:59.000000)
+2025-05-14 13:21:31,050 - INFO - Đã lưu base64
+2025-05-14 13:21:31,050 - INFO - Đang xử lý record: 578833656745592360_shippinglabel_20250514_132052_overlay_pdf_img_tiktok_76x130mm-1747203658-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:58.000000)
+2025-05-14 13:21:33,297 - INFO - Đã lưu base64
+2025-05-14 13:21:33,297 - INFO - Đang xử lý record: 578833545997289160_shippinglabel_20250514_131553_overlay_pdf_img_tiktok_76x130mm-1747203658-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:58.000000)
+2025-05-14 13:21:35,496 - INFO - Đã lưu base64
+2025-05-14 13:21:35,496 - INFO - Đang xử lý record: 578833725789930610_shippinglabel_20250514_132052_overlay_pdf_img_tiktok_76x130mm-1747203658-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:58.000000)
+2025-05-14 13:21:37,757 - INFO - Đã lưu base64
+2025-05-14 13:21:37,757 - INFO - Đang xử lý record: 578833656082039997_shippinglabel_20250514_132052_overlay_pdf_img_tiktok_76x130mm-1747203658-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:58.000000)
+2025-05-14 13:21:40,017 - INFO - Đã lưu base64
+2025-05-14 13:21:40,018 - INFO - Đang xử lý record: 578833656082039997_shippinglabel_20250514_132052_overlay_pdf_img_tiktok_76x130mm-1747203657-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:57.000000)
+2025-05-14 13:21:42,209 - INFO - Đã lưu base64
+2025-05-14 13:21:42,210 - INFO - Đang xử lý record: 578833669285119019_shippinglabel_20250514_132050_overlay_pdf_img_tiktok_76x130mm-1747203656-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:56.000000)
+2025-05-14 13:21:44,500 - INFO - Đã lưu base64
+2025-05-14 13:21:44,501 - INFO - Đang xử lý record: 578833725862348568_shippinglabel_20250514_132050_overlay_pdf_img_tiktok_76x130mm-1747203656-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:56.000000)
+2025-05-14 13:21:46,779 - INFO - Đã lưu base64
+2025-05-14 13:21:46,779 - INFO - Đang xử lý record: 578833725274293644_shippinglabel_20250514_132050_overlay_pdf_img_tiktok_76x130mm-1747203656-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:20:56.000000)
+2025-05-14 13:21:48,988 - INFO - Đã lưu base64
+2025-05-14 13:21:51,158 - INFO - Bỏ qua record: PrintAllInvoiceSo_SOMSN3XW5ZQFN_KkN5n_1747203709227-1747203709-Invoice (Template Code: Invoice)
+2025-05-14 13:21:51,159 - INFO - Bỏ qua record: PrintAllInvoiceSo_SOMSNH6N732DU_zcnGQ_1747203707765-1747203707-Invoice (Template Code: Invoice)
+2025-05-14 13:21:51,161 - INFO - Đang xử lý record: 578833671470548300_shippinglabel_20250514_132104_overlay_pdf_img_tiktok_76x130mm-1747203709-overlay_pdf_img_tiktok_76x130mm (Time created: 2025-05-14 13:21:49.000000)
+2025-05-14 13:21:52,720 - INFO - Dừng script
+2025-05-14 13:21:52,741 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/a676b898dc5910b0aa1b359cd40d87e0
+2025-05-14 13:21:56,810 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002492148E0D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a676b898dc5910b0aa1b359cd40d87e0
+2025-05-14 13:22:00,857 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002492148E5D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a676b898dc5910b0aa1b359cd40d87e0

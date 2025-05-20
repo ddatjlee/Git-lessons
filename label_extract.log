@@ -1,0 +1,1368 @@
+2025-05-14 14:12:57,518 - INFO - Bắt đầu chạy script label-extract...
+2025-05-14 14:12:57,520 - INFO - Tìm thấy 101 file trong thư mục label
+2025-05-14 14:12:57,521 - INFO - Xử lý file: label\2025-05-14 13-28-51.000000_578833895827539120_shippinglabel_20250514_132851_overlay_pdf_img_tiktok_76x130mm-1747204131-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:12:59,518 - ERROR - Không thể gọi API Gemini: 503 - {
+  "error": {
+    "code": 503,
+    "message": "The model is overloaded. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2025-05-14 14:12:59,518 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-28-51.000000_578833895827539120_shippinglabel_20250514_132851_overlay_pdf_img_tiktok_76x130mm-1747204131-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:12:59,521 - INFO - Xử lý file: label\2025-05-14 13-28-54.000000_578833879339468463_shippinglabel_20250514_132854_overlay_pdf_img_tiktok_76x130mm-1747204134-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:03,301 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:13:03,302 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-28-54.000000_578833879339468463_shippinglabel_20250514_132854_overlay_pdf_img_tiktok_76x130mm-1747204134-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:03,302 - INFO - Xử lý file: label\2025-05-14 13-28-56.000000_578833881085215832_shippinglabel_20250514_132856_overlay_pdf_img_tiktok_76x130mm-1747204136-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:07,095 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:13:07,096 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-28-56.000000_578833881085215832_shippinglabel_20250514_132856_overlay_pdf_img_tiktok_76x130mm-1747204136-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:07,098 - INFO - Xử lý file: label\2025-05-14 13-28-59.000000_578833865841936374_shippinglabel_20250514_132859_overlay_pdf_img_tiktok_76x130mm-1747204139-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:10,203 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:13:10,204 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-28-59.000000_578833865841936374_shippinglabel_20250514_132859_overlay_pdf_img_tiktok_76x130mm-1747204139-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:10,206 - INFO - Xử lý file: label\2025-05-14 13-29-02.000000_578833895816201520_shippinglabel_20250514_132901_overlay_pdf_img_tiktok_76x130mm-1747204142-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:13,994 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:13:13,996 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-02.000000_578833895816201520_shippinglabel_20250514_132901_overlay_pdf_img_tiktok_76x130mm-1747204142-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:13,998 - INFO - Xử lý file: label\2025-05-14 13-29-07.000000_578833895409420206_shippinglabel_20250514_132907_overlay_pdf_img_tiktok_76x130mm-1747204147-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:23,751 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:13:23,752 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-07.000000_578833895409420206_shippinglabel_20250514_132907_overlay_pdf_img_tiktok_76x130mm-1747204147-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:23,754 - INFO - Xử lý file: label\2025-05-14 13-29-10.000000_578833837471860583_shippinglabel_20250514_132910_overlay_pdf_img_tiktok_76x130mm-1747204150-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:27,845 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:13:27,847 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-10.000000_578833837471860583_shippinglabel_20250514_132910_overlay_pdf_img_tiktok_76x130mm-1747204150-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:27,849 - INFO - Xử lý file: label\2025-05-14 13-29-12.000000_578833879376102517_shippinglabel_20250514_132912_overlay_pdf_img_tiktok_76x130mm-1747204152-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:30,851 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:13:30,851 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-12.000000_578833879376102517_shippinglabel_20250514_132912_overlay_pdf_img_tiktok_76x130mm-1747204152-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:30,852 - INFO - Xử lý file: label\2025-05-14 13-29-15.000000_578833813733279106_shippinglabel_20250514_132915_overlay_pdf_img_tiktok_76x130mm-1747204155-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:34,350 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:13:34,352 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-15.000000_578833813733279106_shippinglabel_20250514_132915_overlay_pdf_img_tiktok_76x130mm-1747204155-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:34,354 - INFO - Xử lý file: label\2025-05-14 13-29-17.000000_578833867011163443_shippinglabel_20250514_132917_overlay_pdf_img_tiktok_76x130mm-1747204158-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:41,294 - ERROR - Không thể gọi API Gemini: 503 - {
+  "error": {
+    "code": 503,
+    "message": "The model is overloaded. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2025-05-14 14:13:41,295 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-17.000000_578833867011163443_shippinglabel_20250514_132917_overlay_pdf_img_tiktok_76x130mm-1747204158-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:41,296 - INFO - Xử lý file: label\2025-05-14 13-29-20.000000_578833838258619816_shippinglabel_20250514_132920_overlay_pdf_img_tiktok_76x130mm-1747204160-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:44,721 - ERROR - Không thể gọi API Gemini: 500 - {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+2025-05-14 14:13:44,722 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-20.000000_578833838258619816_shippinglabel_20250514_132920_overlay_pdf_img_tiktok_76x130mm-1747204160-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:44,723 - INFO - Xử lý file: label\2025-05-14 13-29-23.000000_578833881215239981_shippinglabel_20250514_132922_overlay_pdf_img_tiktok_76x130mm-1747204163-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:52,296 - ERROR - Không thể gọi API Gemini: 503 - {
+  "error": {
+    "code": 503,
+    "message": "The model is overloaded. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2025-05-14 14:13:52,297 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-23.000000_578833881215239981_shippinglabel_20250514_132922_overlay_pdf_img_tiktok_76x130mm-1747204163-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:52,297 - INFO - Xử lý file: label\2025-05-14 13-29-25.000000_578833814930360216_shippinglabel_20250514_132925_overlay_pdf_img_tiktok_76x130mm-1747204165-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:54,237 - ERROR - Không thể gọi API Gemini: 503 - {
+  "error": {
+    "code": 503,
+    "message": "The model is overloaded. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2025-05-14 14:13:54,238 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-25.000000_578833814930360216_shippinglabel_20250514_132925_overlay_pdf_img_tiktok_76x130mm-1747204165-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:54,239 - INFO - Xử lý file: label\2025-05-14 13-29-28.000000_578833837499975143_shippinglabel_20250514_132927_overlay_pdf_img_tiktok_76x130mm-1747204168-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:57,137 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:13:57,139 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-28.000000_578833837499975143_shippinglabel_20250514_132927_overlay_pdf_img_tiktok_76x130mm-1747204168-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:13:57,141 - INFO - Xử lý file: label\2025-05-14 13-29-31.000000_578833886305814190_shippinglabel_20250514_132931_overlay_pdf_img_tiktok_76x130mm-1747204171-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:00,854 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:14:00,855 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-31.000000_578833886305814190_shippinglabel_20250514_132931_overlay_pdf_img_tiktok_76x130mm-1747204171-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:00,857 - INFO - Xử lý file: label\2025-05-14 13-29-33.000000_578833815111894713_shippinglabel_20250514_132933_overlay_pdf_img_tiktok_76x130mm-1747204173-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:04,688 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:14:04,689 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-33.000000_578833815111894713_shippinglabel_20250514_132933_overlay_pdf_img_tiktok_76x130mm-1747204173-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:04,691 - INFO - Xử lý file: label\2025-05-14 13-29-41.000000_578833836394842066_shippinglabel_20250514_132936_overlay_pdf_img_tiktok_76x130mm-1747204181-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:07,423 - ERROR - Không thể gọi API Gemini: 503 - {
+  "error": {
+    "code": 503,
+    "message": "The model is overloaded. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2025-05-14 14:14:07,423 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-41.000000_578833836394842066_shippinglabel_20250514_132936_overlay_pdf_img_tiktok_76x130mm-1747204181-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:07,425 - INFO - Xử lý file: label\2025-05-14 13-29-44.000000_578833866609100149_shippinglabel_20250514_132943_overlay_pdf_img_tiktok_76x130mm-1747204185-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:09,277 - ERROR - Không thể gọi API Gemini: 503 - {
+  "error": {
+    "code": 503,
+    "message": "The model is overloaded. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2025-05-14 14:14:09,278 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-44.000000_578833866609100149_shippinglabel_20250514_132943_overlay_pdf_img_tiktok_76x130mm-1747204185-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:09,279 - INFO - Xử lý file: label\2025-05-14 13-29-46.000000_578833814702622694_shippinglabel_20250514_132946_overlay_pdf_img_tiktok_76x130mm-1747204186-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:12,948 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:14:12,950 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-46.000000_578833814702622694_shippinglabel_20250514_132946_overlay_pdf_img_tiktok_76x130mm-1747204186-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:12,952 - INFO - Xử lý file: label\2025-05-14 13-29-49.000000_578833867082990619_shippinglabel_20250514_132949_overlay_pdf_img_tiktok_76x130mm-1747204189-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:15,798 - ERROR - Không thể gọi API Gemini: 503 - {
+  "error": {
+    "code": 503,
+    "message": "The model is overloaded. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2025-05-14 14:14:15,799 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-49.000000_578833867082990619_shippinglabel_20250514_132949_overlay_pdf_img_tiktok_76x130mm-1747204189-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:15,801 - INFO - Xử lý file: label\2025-05-14 13-29-51.000000_578833838010500234_shippinglabel_20250514_132951_overlay_pdf_img_tiktok_76x130mm-1747204191-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:19,702 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:14:19,703 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-51.000000_578833838010500234_shippinglabel_20250514_132951_overlay_pdf_img_tiktok_76x130mm-1747204191-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:19,705 - INFO - Xử lý file: label\2025-05-14 13-29-55.000000_578833814695216553_shippinglabel_20250514_132954_overlay_pdf_img_tiktok_76x130mm-1747204195-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:23,429 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:14:23,430 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-55.000000_578833814695216553_shippinglabel_20250514_132954_overlay_pdf_img_tiktok_76x130mm-1747204195-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:23,432 - INFO - Xử lý file: label\2025-05-14 13-29-57.000000_578833866376841133_shippinglabel_20250514_132957_overlay_pdf_img_tiktok_76x130mm-1747204197-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:26,211 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:14:26,211 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-57.000000_578833866376841133_shippinglabel_20250514_132957_overlay_pdf_img_tiktok_76x130mm-1747204197-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:26,212 - INFO - Xử lý file: label\2025-05-14 13-29-59.000000_578833887024350882_shippinglabel_20250514_132959_overlay_pdf_img_tiktok_76x130mm-1747204200-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:29,117 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:14:29,118 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-59.000000_578833887024350882_shippinglabel_20250514_132959_overlay_pdf_img_tiktok_76x130mm-1747204200-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:14:29,118 - INFO - Xử lý file: label\2025-05-14 13-30-05.000000_578833837663946709_shippinglabel_20250514_133005_overlay_pdf_img_tiktok_76x130mm-1747204206-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:15:36,069 - INFO - Bắt đầu chạy script label-extract...
+2025-05-14 14:15:36,072 - INFO - Tìm thấy 101 file trong thư mục label
+2025-05-14 14:15:36,072 - INFO - Xử lý file: label\2025-05-14 13-28-51.000000_578833895827539120_shippinglabel_20250514_132851_overlay_pdf_img_tiktok_76x130mm-1747204131-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:15:39,838 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:15:39,840 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-28-51.000000_578833895827539120_shippinglabel_20250514_132851_overlay_pdf_img_tiktok_76x130mm-1747204131-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:15:39,843 - INFO - Xử lý file: label\2025-05-14 13-28-54.000000_578833879339468463_shippinglabel_20250514_132854_overlay_pdf_img_tiktok_76x130mm-1747204134-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:15:44,071 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:15:44,072 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-28-54.000000_578833879339468463_shippinglabel_20250514_132854_overlay_pdf_img_tiktok_76x130mm-1747204134-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:15:44,072 - INFO - Xử lý file: label\2025-05-14 13-28-56.000000_578833881085215832_shippinglabel_20250514_132856_overlay_pdf_img_tiktok_76x130mm-1747204136-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:15:47,935 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:15:47,937 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-28-56.000000_578833881085215832_shippinglabel_20250514_132856_overlay_pdf_img_tiktok_76x130mm-1747204136-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:15:47,939 - INFO - Xử lý file: label\2025-05-14 13-28-59.000000_578833865841936374_shippinglabel_20250514_132859_overlay_pdf_img_tiktok_76x130mm-1747204139-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:15:52,120 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:15:52,120 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-28-59.000000_578833865841936374_shippinglabel_20250514_132859_overlay_pdf_img_tiktok_76x130mm-1747204139-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:15:52,121 - INFO - Xử lý file: label\2025-05-14 13-29-02.000000_578833895816201520_shippinglabel_20250514_132901_overlay_pdf_img_tiktok_76x130mm-1747204142-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:15:55,019 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:15:55,020 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-02.000000_578833895816201520_shippinglabel_20250514_132901_overlay_pdf_img_tiktok_76x130mm-1747204142-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:15:55,021 - INFO - Xử lý file: label\2025-05-14 13-29-07.000000_578833895409420206_shippinglabel_20250514_132907_overlay_pdf_img_tiktok_76x130mm-1747204147-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:15:58,547 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:15:58,548 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-07.000000_578833895409420206_shippinglabel_20250514_132907_overlay_pdf_img_tiktok_76x130mm-1747204147-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:15:58,550 - INFO - Xử lý file: label\2025-05-14 13-29-10.000000_578833837471860583_shippinglabel_20250514_132910_overlay_pdf_img_tiktok_76x130mm-1747204150-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:01,550 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:01,551 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-10.000000_578833837471860583_shippinglabel_20250514_132910_overlay_pdf_img_tiktok_76x130mm-1747204150-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:01,553 - INFO - Xử lý file: label\2025-05-14 13-29-12.000000_578833879376102517_shippinglabel_20250514_132912_overlay_pdf_img_tiktok_76x130mm-1747204152-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:04,595 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:04,596 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-12.000000_578833879376102517_shippinglabel_20250514_132912_overlay_pdf_img_tiktok_76x130mm-1747204152-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:04,598 - INFO - Xử lý file: label\2025-05-14 13-29-15.000000_578833813733279106_shippinglabel_20250514_132915_overlay_pdf_img_tiktok_76x130mm-1747204155-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:07,548 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:07,549 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-15.000000_578833813733279106_shippinglabel_20250514_132915_overlay_pdf_img_tiktok_76x130mm-1747204155-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:07,550 - INFO - Xử lý file: label\2025-05-14 13-29-17.000000_578833867011163443_shippinglabel_20250514_132917_overlay_pdf_img_tiktok_76x130mm-1747204158-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:10,801 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:10,801 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-17.000000_578833867011163443_shippinglabel_20250514_132917_overlay_pdf_img_tiktok_76x130mm-1747204158-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:10,802 - INFO - Xử lý file: label\2025-05-14 13-29-20.000000_578833838258619816_shippinglabel_20250514_132920_overlay_pdf_img_tiktok_76x130mm-1747204160-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:14,789 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:14,790 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-20.000000_578833838258619816_shippinglabel_20250514_132920_overlay_pdf_img_tiktok_76x130mm-1747204160-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:14,792 - INFO - Xử lý file: label\2025-05-14 13-29-23.000000_578833881215239981_shippinglabel_20250514_132922_overlay_pdf_img_tiktok_76x130mm-1747204163-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:18,148 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:18,149 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-23.000000_578833881215239981_shippinglabel_20250514_132922_overlay_pdf_img_tiktok_76x130mm-1747204163-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:18,150 - INFO - Xử lý file: label\2025-05-14 13-29-25.000000_578833814930360216_shippinglabel_20250514_132925_overlay_pdf_img_tiktok_76x130mm-1747204165-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:21,257 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:21,259 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-25.000000_578833814930360216_shippinglabel_20250514_132925_overlay_pdf_img_tiktok_76x130mm-1747204165-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:21,261 - INFO - Xử lý file: label\2025-05-14 13-29-28.000000_578833837499975143_shippinglabel_20250514_132927_overlay_pdf_img_tiktok_76x130mm-1747204168-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:25,263 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:25,264 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-28.000000_578833837499975143_shippinglabel_20250514_132927_overlay_pdf_img_tiktok_76x130mm-1747204168-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:25,267 - INFO - Xử lý file: label\2025-05-14 13-29-31.000000_578833886305814190_shippinglabel_20250514_132931_overlay_pdf_img_tiktok_76x130mm-1747204171-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:28,462 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:28,463 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-31.000000_578833886305814190_shippinglabel_20250514_132931_overlay_pdf_img_tiktok_76x130mm-1747204171-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:28,465 - INFO - Xử lý file: label\2025-05-14 13-29-33.000000_578833815111894713_shippinglabel_20250514_132933_overlay_pdf_img_tiktok_76x130mm-1747204173-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:31,443 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:31,444 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-33.000000_578833815111894713_shippinglabel_20250514_132933_overlay_pdf_img_tiktok_76x130mm-1747204173-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:31,448 - INFO - Xử lý file: label\2025-05-14 13-29-41.000000_578833836394842066_shippinglabel_20250514_132936_overlay_pdf_img_tiktok_76x130mm-1747204181-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:35,362 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:35,362 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-41.000000_578833836394842066_shippinglabel_20250514_132936_overlay_pdf_img_tiktok_76x130mm-1747204181-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:35,363 - INFO - Xử lý file: label\2025-05-14 13-29-44.000000_578833866609100149_shippinglabel_20250514_132943_overlay_pdf_img_tiktok_76x130mm-1747204185-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:38,514 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:38,515 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-44.000000_578833866609100149_shippinglabel_20250514_132943_overlay_pdf_img_tiktok_76x130mm-1747204185-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:38,516 - INFO - Xử lý file: label\2025-05-14 13-29-46.000000_578833814702622694_shippinglabel_20250514_132946_overlay_pdf_img_tiktok_76x130mm-1747204186-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:42,346 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:42,349 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-46.000000_578833814702622694_shippinglabel_20250514_132946_overlay_pdf_img_tiktok_76x130mm-1747204186-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:42,351 - INFO - Xử lý file: label\2025-05-14 13-29-49.000000_578833867082990619_shippinglabel_20250514_132949_overlay_pdf_img_tiktok_76x130mm-1747204189-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:45,319 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:45,320 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-49.000000_578833867082990619_shippinglabel_20250514_132949_overlay_pdf_img_tiktok_76x130mm-1747204189-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:45,322 - INFO - Xử lý file: label\2025-05-14 13-29-51.000000_578833838010500234_shippinglabel_20250514_132951_overlay_pdf_img_tiktok_76x130mm-1747204191-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:48,553 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:48,553 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-51.000000_578833838010500234_shippinglabel_20250514_132951_overlay_pdf_img_tiktok_76x130mm-1747204191-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:48,554 - INFO - Xử lý file: label\2025-05-14 13-29-55.000000_578833814695216553_shippinglabel_20250514_132954_overlay_pdf_img_tiktok_76x130mm-1747204195-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:52,318 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:52,319 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-55.000000_578833814695216553_shippinglabel_20250514_132954_overlay_pdf_img_tiktok_76x130mm-1747204195-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:52,319 - INFO - Xử lý file: label\2025-05-14 13-29-57.000000_578833866376841133_shippinglabel_20250514_132957_overlay_pdf_img_tiktok_76x130mm-1747204197-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:56,187 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:56,188 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-57.000000_578833866376841133_shippinglabel_20250514_132957_overlay_pdf_img_tiktok_76x130mm-1747204197-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:56,188 - INFO - Xử lý file: label\2025-05-14 13-29-59.000000_578833887024350882_shippinglabel_20250514_132959_overlay_pdf_img_tiktok_76x130mm-1747204200-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:59,968 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:16:59,968 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-29-59.000000_578833887024350882_shippinglabel_20250514_132959_overlay_pdf_img_tiktok_76x130mm-1747204200-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:16:59,969 - INFO - Xử lý file: label\2025-05-14 13-30-05.000000_578833837663946709_shippinglabel_20250514_133005_overlay_pdf_img_tiktok_76x130mm-1747204206-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:03,865 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:17:03,865 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-05.000000_578833837663946709_shippinglabel_20250514_133005_overlay_pdf_img_tiktok_76x130mm-1747204206-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:03,866 - INFO - Xử lý file: label\2025-05-14 13-30-08.000000_578833887382373404_shippinglabel_20250514_133008_overlay_pdf_img_tiktok_76x130mm-1747204208-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:06,804 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:17:06,805 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-08.000000_578833887382373404_shippinglabel_20250514_133008_overlay_pdf_img_tiktok_76x130mm-1747204208-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:06,806 - INFO - Xử lý file: label\2025-05-14 13-30-11.000000_578833837272499373_shippinglabel_20250514_133010_overlay_pdf_img_tiktok_76x130mm-1747204211-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:07,878 - ERROR - Không thể gọi API Gemini: 429 - {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.",
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerMinutePerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-1.5-flash"
+            },
+            "quotaValue": "15"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://ai.google.dev/gemini-api/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "52s"
+      }
+    ]
+  }
+}
+
+2025-05-14 14:17:07,879 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-11.000000_578833837272499373_shippinglabel_20250514_133010_overlay_pdf_img_tiktok_76x130mm-1747204211-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:07,881 - INFO - Xử lý file: label\2025-05-14 13-30-13.000000_578833835520788193_shippinglabel_20250514_132735_overlay_pdf_img_tiktok_76x130mm-1747204213-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:10,996 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:17:10,997 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-13.000000_578833835520788193_shippinglabel_20250514_132735_overlay_pdf_img_tiktok_76x130mm-1747204213-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:10,998 - INFO - Xử lý file: label\2025-05-14 13-30-14.000000_578833897045526518_shippinglabel_20250514_133013_overlay_pdf_img_tiktok_76x130mm-1747204214-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:14,732 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:17:14,732 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-14.000000_578833897045526518_shippinglabel_20250514_133013_overlay_pdf_img_tiktok_76x130mm-1747204214-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:14,733 - INFO - Xử lý file: label\2025-05-14 13-30-15.000000_578833810170218035_shippinglabel_20250514_133015_overlay_pdf_img_tiktok_76x130mm-1747204216-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:18,441 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:17:18,441 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-15.000000_578833810170218035_shippinglabel_20250514_133015_overlay_pdf_img_tiktok_76x130mm-1747204216-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:18,442 - INFO - Xử lý file: label\2025-05-14 13-30-15.000000_578833814519580228_shippinglabel_20250514_132753_overlay_pdf_img_tiktok_76x130mm-1747204215-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:23,816 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:17:23,817 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-15.000000_578833814519580228_shippinglabel_20250514_132753_overlay_pdf_img_tiktok_76x130mm-1747204215-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:23,817 - INFO - Xử lý file: label\2025-05-14 13-30-17.000000_578833812332971475_shippinglabel_20250514_132706_overlay_pdf_img_tiktok_76x130mm-1747204217-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:27,889 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:17:27,889 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-17.000000_578833812332971475_shippinglabel_20250514_132706_overlay_pdf_img_tiktok_76x130mm-1747204217-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:27,890 - INFO - Xử lý file: label\2025-05-14 13-30-19.000000_578833867015095841_shippinglabel_20250514_133002_overlay_pdf_img_tiktok_76x130mm-1747204219-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:31,599 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:17:31,599 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-19.000000_578833867015095841_shippinglabel_20250514_133002_overlay_pdf_img_tiktok_76x130mm-1747204219-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:31,600 - INFO - Xử lý file: label\2025-05-14 13-30-21.000000_578833814881076696_shippinglabel_20250514_132745_overlay_pdf_img_tiktok_76x130mm-1747204221-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:34,910 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:17:34,910 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-21.000000_578833814881076696_shippinglabel_20250514_132745_overlay_pdf_img_tiktok_76x130mm-1747204221-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:34,911 - INFO - Xử lý file: label\2025-05-14 13-30-21.000000_578833838667564752_shippinglabel_20250514_133021_overlay_pdf_img_tiktok_76x130mm-1747204221-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:37,811 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:17:37,812 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-21.000000_578833838667564752_shippinglabel_20250514_133021_overlay_pdf_img_tiktok_76x130mm-1747204221-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:37,813 - INFO - Xử lý file: label\2025-05-14 13-30-23.000000_578833813150991773_shippinglabel_20250514_132904_overlay_pdf_img_tiktok_76x130mm-1747204223-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:40,826 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:17:40,827 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-23.000000_578833813150991773_shippinglabel_20250514_132904_overlay_pdf_img_tiktok_76x130mm-1747204223-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:40,827 - INFO - Xử lý file: label\2025-05-14 13-30-24.000000_578833814995044164_shippinglabel_20250514_133023_overlay_pdf_img_tiktok_76x130mm-1747204224-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:43,852 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:17:43,853 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-24.000000_578833814995044164_shippinglabel_20250514_133023_overlay_pdf_img_tiktok_76x130mm-1747204224-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:43,853 - INFO - Xử lý file: label\2025-05-14 13-30-25.000000_578833812555073385_shippinglabel_20250514_132653_overlay_pdf_img_tiktok_76x130mm-1747204225-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:46,762 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:17:46,763 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-25.000000_578833812555073385_shippinglabel_20250514_132653_overlay_pdf_img_tiktok_76x130mm-1747204225-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:46,763 - INFO - Xử lý file: label\2025-05-14 13-30-25.000000_578833837272499373_shippinglabel_20250514_133010_overlay_pdf_img_tiktok_76x130mm-1747204225-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:49,635 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:17:49,636 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-25.000000_578833837272499373_shippinglabel_20250514_133010_overlay_pdf_img_tiktok_76x130mm-1747204225-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:49,636 - INFO - Xử lý file: label\2025-05-14 13-30-25.000000_578833881152455837_shippinglabel_20250514_133025_overlay_pdf_img_tiktok_76x130mm-1747204225-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:52,574 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:17:52,574 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-25.000000_578833881152455837_shippinglabel_20250514_133025_overlay_pdf_img_tiktok_76x130mm-1747204225-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:52,575 - INFO - Xử lý file: label\2025-05-14 13-30-26.000000_578833815216293802_shippinglabel_20250514_133026_overlay_pdf_img_tiktok_76x130mm-1747204226-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:56,353 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:17:56,354 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-26.000000_578833815216293802_shippinglabel_20250514_133026_overlay_pdf_img_tiktok_76x130mm-1747204226-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:56,354 - INFO - Xử lý file: label\2025-05-14 13-30-27.000000_578833864691778688_shippinglabel_20250514_132729_overlay_pdf_img_tiktok_76x130mm-1747204227-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:59,509 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:17:59,509 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-27.000000_578833864691778688_shippinglabel_20250514_132729_overlay_pdf_img_tiktok_76x130mm-1747204227-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:17:59,510 - INFO - Xử lý file: label\2025-05-14 13-30-28.000000_578833837677381467_shippinglabel_20250514_133027_overlay_pdf_img_tiktok_76x130mm-1747204228-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:02,512 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:18:02,512 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-28.000000_578833837677381467_shippinglabel_20250514_133027_overlay_pdf_img_tiktok_76x130mm-1747204228-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:02,513 - INFO - Xử lý file: label\2025-05-14 13-30-30.000000_578833895656162455_shippinglabel_20250514_133030_overlay_pdf_img_tiktok_76x130mm-1747204230-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:05,602 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:18:05,603 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-30.000000_578833895656162455_shippinglabel_20250514_133030_overlay_pdf_img_tiktok_76x130mm-1747204230-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:05,604 - INFO - Xử lý file: label\2025-05-14 13-30-31.000000_578833887663130043_shippinglabel_20250514_133031_overlay_pdf_img_tiktok_76x130mm-1747204231-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:06,658 - ERROR - Không thể gọi API Gemini: 429 - {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.",
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerMinutePerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-1.5-flash"
+            },
+            "quotaValue": "15"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://ai.google.dev/gemini-api/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "54s"
+      }
+    ]
+  }
+}
+
+2025-05-14 14:18:06,658 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-31.000000_578833887663130043_shippinglabel_20250514_133031_overlay_pdf_img_tiktok_76x130mm-1747204231-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:06,659 - INFO - Xử lý file: label\2025-05-14 13-30-33.000000_578833886360012316_shippinglabel_20250514_133033_overlay_pdf_img_tiktok_76x130mm-1747204233-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:10,427 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:18:10,427 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-33.000000_578833886360012316_shippinglabel_20250514_133033_overlay_pdf_img_tiktok_76x130mm-1747204233-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:10,428 - INFO - Xử lý file: label\2025-05-14 13-30-34.000000_578833895656555978_shippinglabel_20250514_133034_overlay_pdf_img_tiktok_76x130mm-1747204234-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:11,292 - ERROR - Không thể gọi API Gemini: 429 - {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.",
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerMinutePerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-1.5-flash"
+            },
+            "quotaValue": "15"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://ai.google.dev/gemini-api/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "49s"
+      }
+    ]
+  }
+}
+
+2025-05-14 14:18:11,292 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-34.000000_578833895656555978_shippinglabel_20250514_133034_overlay_pdf_img_tiktok_76x130mm-1747204234-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:11,293 - INFO - Xử lý file: label\2025-05-14 13-30-53.000000_578833868638029782_shippinglabel_20250514_133052_overlay_pdf_img_tiktok_76x130mm-1747204253-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:14,222 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:18:14,222 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-53.000000_578833868638029782_shippinglabel_20250514_133052_overlay_pdf_img_tiktok_76x130mm-1747204253-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:14,223 - INFO - Xử lý file: label\2025-05-14 13-30-54.000000_578833869130204824_shippinglabel_20250514_133054_overlay_pdf_img_tiktok_76x130mm-1747204254-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:17,522 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:18:17,522 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-54.000000_578833869130204824_shippinglabel_20250514_133054_overlay_pdf_img_tiktok_76x130mm-1747204254-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:17,523 - INFO - Xử lý file: label\2025-05-14 13-30-55.000000_578833840376153225_shippinglabel_20250514_133055_overlay_pdf_img_tiktok_76x130mm-1747204255-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:21,315 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:18:21,316 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-55.000000_578833840376153225_shippinglabel_20250514_133055_overlay_pdf_img_tiktok_76x130mm-1747204255-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:21,317 - INFO - Xử lý file: label\2025-05-14 13-30-57.000000_578833881528632613_shippinglabel_20250514_133057_overlay_pdf_img_tiktok_76x130mm-1747204257-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:24,431 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:18:24,431 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-57.000000_578833881528632613_shippinglabel_20250514_133057_overlay_pdf_img_tiktok_76x130mm-1747204257-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:24,432 - INFO - Xử lý file: label\2025-05-14 13-30-58.000000_578833897254061270_shippinglabel_20250514_133057_overlay_pdf_img_tiktok_76x130mm-1747204258-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:27,985 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:18:27,985 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-58.000000_578833897254061270_shippinglabel_20250514_133057_overlay_pdf_img_tiktok_76x130mm-1747204258-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:27,986 - INFO - Xử lý file: label\2025-05-14 13-30-59.000000_578833838731855391_shippinglabel_20250514_133059_overlay_pdf_img_tiktok_76x130mm-1747204259-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:32,534 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:18:32,534 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-30-59.000000_578833838731855391_shippinglabel_20250514_133059_overlay_pdf_img_tiktok_76x130mm-1747204259-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:32,535 - INFO - Xử lý file: label\2025-05-14 13-31-00.000000_578833868725192568_shippinglabel_20250514_133100_overlay_pdf_img_tiktok_76x130mm-1747204260-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:35,564 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:18:35,564 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-00.000000_578833868725192568_shippinglabel_20250514_133100_overlay_pdf_img_tiktok_76x130mm-1747204260-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:35,565 - INFO - Xử lý file: label\2025-05-14 13-31-02.000000_578833818627638309_shippinglabel_20250514_133102_overlay_pdf_img_tiktok_76x130mm-1747204262-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:39,235 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:18:39,236 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-02.000000_578833818627638309_shippinglabel_20250514_133102_overlay_pdf_img_tiktok_76x130mm-1747204262-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:39,236 - INFO - Xử lý file: label\2025-05-14 13-31-03.000000_578833896768374053_shippinglabel_20250514_133102_overlay_pdf_img_tiktok_76x130mm-1747204263-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:42,617 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:18:42,618 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-03.000000_578833896768374053_shippinglabel_20250514_133102_overlay_pdf_img_tiktok_76x130mm-1747204263-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:42,619 - INFO - Xử lý file: label\2025-05-14 13-31-04.000000_578833817582274199_shippinglabel_20250514_133104_overlay_pdf_img_tiktok_76x130mm-1747204265-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:45,552 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:18:45,552 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-04.000000_578833817582274199_shippinglabel_20250514_133104_overlay_pdf_img_tiktok_76x130mm-1747204265-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:45,553 - INFO - Xử lý file: label\2025-05-14 13-31-05.000000_578833883406369989_shippinglabel_20250514_133105_overlay_pdf_img_tiktok_76x130mm-1747204265-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:48,602 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:18:48,602 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-05.000000_578833883406369989_shippinglabel_20250514_133105_overlay_pdf_img_tiktok_76x130mm-1747204265-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:48,603 - INFO - Xử lý file: label\2025-05-14 13-31-07.000000_578833870353565592_shippinglabel_20250514_133106_overlay_pdf_img_tiktok_76x130mm-1747204267-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:52,224 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:18:52,225 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-07.000000_578833870353565592_shippinglabel_20250514_133106_overlay_pdf_img_tiktok_76x130mm-1747204267-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:52,225 - INFO - Xử lý file: label\2025-05-14 13-31-08.000000_578833819763443180_shippinglabel_20250514_133108_overlay_pdf_img_tiktok_76x130mm-1747204268-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:55,213 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:18:55,213 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-08.000000_578833819763443180_shippinglabel_20250514_133108_overlay_pdf_img_tiktok_76x130mm-1747204268-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:55,214 - INFO - Xử lý file: label\2025-05-14 13-31-09.000000_578833871533540671_shippinglabel_20250514_133109_overlay_pdf_img_tiktok_76x130mm-1747204269-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:58,623 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:18:58,623 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-09.000000_578833871533540671_shippinglabel_20250514_133109_overlay_pdf_img_tiktok_76x130mm-1747204269-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:18:58,624 - INFO - Xử lý file: label\2025-05-14 13-31-11.000000_578833820371355070_shippinglabel_20250514_133110_overlay_pdf_img_tiktok_76x130mm-1747204271-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:02,256 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:02,256 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-11.000000_578833820371355070_shippinglabel_20250514_133110_overlay_pdf_img_tiktok_76x130mm-1747204271-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:02,257 - INFO - Xử lý file: label\2025-05-14 13-31-29.000000_578833935322547913_shippinglabel_20250514_133128_overlay_pdf_img_tiktok_76x130mm-1747204289-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:06,086 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:06,086 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-29.000000_578833935322547913_shippinglabel_20250514_133128_overlay_pdf_img_tiktok_76x130mm-1747204289-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:06,087 - INFO - Xử lý file: label\2025-05-14 13-31-31.000000_578833821096708079_shippinglabel_20250514_133131_overlay_pdf_img_tiktok_76x130mm-1747204291-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:10,073 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:10,073 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-31.000000_578833821096708079_shippinglabel_20250514_133131_overlay_pdf_img_tiktok_76x130mm-1747204291-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:10,074 - INFO - Xử lý file: label\2025-05-14 13-31-31.000000_578833822858315102_shippinglabel_20250514_133130_overlay_pdf_img_tiktok_76x130mm-1747204291-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:13,887 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:13,887 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-31.000000_578833822858315102_shippinglabel_20250514_133130_overlay_pdf_img_tiktok_76x130mm-1747204291-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:13,888 - INFO - Xử lý file: label\2025-05-14 13-31-33.000000_578833822248306674_shippinglabel_20250514_133133_overlay_pdf_img_tiktok_76x130mm-1747204293-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:17,349 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:17,349 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-33.000000_578833822248306674_shippinglabel_20250514_133133_overlay_pdf_img_tiktok_76x130mm-1747204293-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:17,350 - INFO - Xử lý file: label\2025-05-14 13-31-34.000000_578833891463890560_shippinglabel_20250514_133133_overlay_pdf_img_tiktok_76x130mm-1747204294-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:20,437 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:20,437 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-34.000000_578833891463890560_shippinglabel_20250514_133133_overlay_pdf_img_tiktok_76x130mm-1747204294-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:20,438 - INFO - Xử lý file: label\2025-05-14 13-31-36.000000_578833821972334415_shippinglabel_20250514_133136_overlay_pdf_img_tiktok_76x130mm-1747204296-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:23,463 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:23,463 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-36.000000_578833821972334415_shippinglabel_20250514_133136_overlay_pdf_img_tiktok_76x130mm-1747204296-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:23,464 - INFO - Xử lý file: label\2025-05-14 13-31-36.000000_578833822891673008_shippinglabel_20250514_133135_overlay_pdf_img_tiktok_76x130mm-1747204296-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:27,266 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:27,266 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-36.000000_578833822891673008_shippinglabel_20250514_133135_overlay_pdf_img_tiktok_76x130mm-1747204296-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:27,267 - INFO - Xử lý file: label\2025-05-14 13-31-38.000000_578833841866245123_shippinglabel_20250514_133138_overlay_pdf_img_tiktok_76x130mm-1747204298-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:31,195 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:31,195 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-38.000000_578833841866245123_shippinglabel_20250514_133138_overlay_pdf_img_tiktok_76x130mm-1747204298-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:31,196 - INFO - Xử lý file: label\2025-05-14 13-31-39.000000_578833935885370889_shippinglabel_20250514_133138_overlay_pdf_img_tiktok_76x130mm-1747204299-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:34,277 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:34,277 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-39.000000_578833935885370889_shippinglabel_20250514_133138_overlay_pdf_img_tiktok_76x130mm-1747204299-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:34,278 - INFO - Xử lý file: label\2025-05-14 13-31-41.000000_578833935694333462_shippinglabel_20250514_133140_overlay_pdf_img_tiktok_76x130mm-1747204301-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:37,253 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:37,253 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-41.000000_578833935694333462_shippinglabel_20250514_133140_overlay_pdf_img_tiktok_76x130mm-1747204301-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:37,254 - INFO - Xử lý file: label\2025-05-14 13-31-42.000000_578833843103762247_shippinglabel_20250514_133141_overlay_pdf_img_tiktok_76x130mm-1747204302-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:40,323 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:40,324 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-42.000000_578833843103762247_shippinglabel_20250514_133141_overlay_pdf_img_tiktok_76x130mm-1747204302-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:40,324 - INFO - Xử lý file: label\2025-05-14 13-31-43.000000_578833822949475805_shippinglabel_20250514_133143_overlay_pdf_img_tiktok_76x130mm-1747204303-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:43,171 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:43,171 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-43.000000_578833822949475805_shippinglabel_20250514_133143_overlay_pdf_img_tiktok_76x130mm-1747204303-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:43,172 - INFO - Xử lý file: label\2025-05-14 13-31-43.000000_578833874260493714_shippinglabel_20250514_133143_overlay_pdf_img_tiktok_76x130mm-1747204304-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:46,935 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:46,935 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-43.000000_578833874260493714_shippinglabel_20250514_133143_overlay_pdf_img_tiktok_76x130mm-1747204304-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:46,936 - INFO - Xử lý file: label\2025-05-14 13-31-45.000000_578833845705869119_shippinglabel_20250514_133145_overlay_pdf_img_tiktok_76x130mm-1747204306-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:50,104 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:50,104 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-45.000000_578833845705869119_shippinglabel_20250514_133145_overlay_pdf_img_tiktok_76x130mm-1747204306-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:50,105 - INFO - Xử lý file: label\2025-05-14 13-31-46.000000_578833845394900727_shippinglabel_20250514_133146_overlay_pdf_img_tiktok_76x130mm-1747204306-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:53,069 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:53,069 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-46.000000_578833845394900727_shippinglabel_20250514_133146_overlay_pdf_img_tiktok_76x130mm-1747204306-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:53,070 - INFO - Xử lý file: label\2025-05-14 13-31-49.000000_578833891458974736_shippinglabel_20250514_133148_overlay_pdf_img_tiktok_76x130mm-1747204309-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:56,851 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:56,852 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-49.000000_578833891458974736_shippinglabel_20250514_133148_overlay_pdf_img_tiktok_76x130mm-1747204309-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:56,852 - INFO - Xử lý file: label\2025-05-14 13-31-50.000000_578833874308335533_shippinglabel_20250514_133150_overlay_pdf_img_tiktok_76x130mm-1747204310-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:59,884 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:19:59,884 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-50.000000_578833874308335533_shippinglabel_20250514_133150_overlay_pdf_img_tiktok_76x130mm-1747204310-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:19:59,885 - INFO - Xử lý file: label\2025-05-14 13-31-51.000000_578833823757468714_shippinglabel_20250514_133151_overlay_pdf_img_tiktok_76x130mm-1747204311-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:02,991 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:20:02,991 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-51.000000_578833823757468714_shippinglabel_20250514_133151_overlay_pdf_img_tiktok_76x130mm-1747204311-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:02,992 - INFO - Xử lý file: label\2025-05-14 13-31-53.000000_578833823353701731_shippinglabel_20250514_133152_overlay_pdf_img_tiktok_76x130mm-1747204313-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:05,796 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:20:05,796 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-53.000000_578833823353701731_shippinglabel_20250514_133152_overlay_pdf_img_tiktok_76x130mm-1747204313-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:05,797 - INFO - Xử lý file: label\2025-05-14 13-31-54.000000_578833845109294095_shippinglabel_20250514_133154_overlay_pdf_img_tiktok_76x130mm-1747204314-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:06,846 - ERROR - Không thể gọi API Gemini: 429 - {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.",
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerMinutePerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-1.5-flash"
+            },
+            "quotaValue": "15"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://ai.google.dev/gemini-api/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "53s"
+      }
+    ]
+  }
+}
+
+2025-05-14 14:20:06,847 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-54.000000_578833845109294095_shippinglabel_20250514_133154_overlay_pdf_img_tiktok_76x130mm-1747204314-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:06,847 - INFO - Xử lý file: label\2025-05-14 13-31-55.000000_578833823633999078_shippinglabel_20250514_133155_overlay_pdf_img_tiktok_76x130mm-1747204315-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:07,893 - ERROR - Không thể gọi API Gemini: 429 - {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.",
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerMinutePerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-1.5-flash"
+            },
+            "quotaValue": "15"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://ai.google.dev/gemini-api/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "52s"
+      }
+    ]
+  }
+}
+
+2025-05-14 14:20:07,894 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-55.000000_578833823633999078_shippinglabel_20250514_133155_overlay_pdf_img_tiktok_76x130mm-1747204315-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:07,895 - INFO - Xử lý file: label\2025-05-14 13-31-59.000000_578833824678250398_shippinglabel_20250514_133158_overlay_pdf_img_tiktok_76x130mm-1747204319-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:09,676 - ERROR - Không thể gọi API Gemini: 429 - {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.",
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerMinutePerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-1.5-flash"
+            },
+            "quotaValue": "15"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://ai.google.dev/gemini-api/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "51s"
+      }
+    ]
+  }
+}
+
+2025-05-14 14:20:09,677 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-31-59.000000_578833824678250398_shippinglabel_20250514_133158_overlay_pdf_img_tiktok_76x130mm-1747204319-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:09,677 - INFO - Xử lý file: label\2025-05-14 13-32-02.000000_578833846198699530_shippinglabel_20250514_133201_overlay_pdf_img_tiktok_76x130mm-1747204322-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:10,727 - ERROR - Không thể gọi API Gemini: 429 - {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.",
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerMinutePerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-1.5-flash"
+            },
+            "quotaValue": "15"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://ai.google.dev/gemini-api/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "50s"
+      }
+    ]
+  }
+}
+
+2025-05-14 14:20:10,728 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-32-02.000000_578833846198699530_shippinglabel_20250514_133201_overlay_pdf_img_tiktok_76x130mm-1747204322-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:10,728 - INFO - Xử lý file: label\2025-05-14 13-32-17.000000_578833931717084429_shippinglabel_20250514_133200_overlay_pdf_img_tiktok_76x130mm-1747204337-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:11,717 - ERROR - Không thể gọi API Gemini: 429 - {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.",
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerMinutePerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "model": "gemini-1.5-flash",
+              "location": "global"
+            },
+            "quotaValue": "15"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://ai.google.dev/gemini-api/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "49s"
+      }
+    ]
+  }
+}
+
+2025-05-14 14:20:11,717 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-32-17.000000_578833931717084429_shippinglabel_20250514_133200_overlay_pdf_img_tiktok_76x130mm-1747204337-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:11,718 - INFO - Xử lý file: label\2025-05-14 13-32-17.000000_578833953637173152_shippinglabel_20250514_133203_overlay_pdf_img_tiktok_76x130mm-1747204337-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:14,752 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:20:14,752 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-32-17.000000_578833953637173152_shippinglabel_20250514_133203_overlay_pdf_img_tiktok_76x130mm-1747204337-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:14,753 - INFO - Xử lý file: label\2025-05-14 13-32-21.000000_578833846440724239_shippinglabel_20250514_133221_overlay_pdf_img_tiktok_76x130mm-1747204341-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:17,956 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:20:17,957 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-32-21.000000_578833846440724239_shippinglabel_20250514_133221_overlay_pdf_img_tiktok_76x130mm-1747204341-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:17,958 - INFO - Xử lý file: label\2025-05-14 13-32-23.000000_578833932435949240_shippinglabel_20250514_133222_overlay_pdf_img_tiktok_76x130mm-1747204344-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:21,793 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:20:21,794 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-32-23.000000_578833932435949240_shippinglabel_20250514_133222_overlay_pdf_img_tiktok_76x130mm-1747204344-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:21,796 - INFO - Xử lý file: label\2025-05-14 13-32-24.000000_578833902791853521_shippinglabel_20250514_133223_overlay_pdf_img_tiktok_76x130mm-1747204344-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:24,799 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:20:24,801 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-32-24.000000_578833902791853521_shippinglabel_20250514_133223_overlay_pdf_img_tiktok_76x130mm-1747204344-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:24,804 - INFO - Xử lý file: label\2025-05-14 13-32-50.000000_578833920491684885_shippinglabel_20250514_133249_overlay_pdf_img_tiktok_76x130mm-1747204370-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:27,949 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:20:27,950 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-32-50.000000_578833920491684885_shippinglabel_20250514_133249_overlay_pdf_img_tiktok_76x130mm-1747204370-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:27,951 - INFO - Xử lý file: label\2025-05-14 13-32-50.000000_somsndx9psfar_shippinglabel_1747204369_overlay_pdf_img_tiktok_76x130mm-1747204370-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:31,726 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:20:31,726 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-32-50.000000_somsndx9psfar_shippinglabel_1747204369_overlay_pdf_img_tiktok_76x130mm-1747204370-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:31,727 - INFO - Xử lý file: label\2025-05-14 13-32-51.000000_578833945007654170_shippinglabel_20250514_133249_overlay_pdf_img_tiktok_76x130mm-1747204371-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:34,769 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:20:34,770 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-32-51.000000_578833945007654170_shippinglabel_20250514_133249_overlay_pdf_img_tiktok_76x130mm-1747204371-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:34,770 - INFO - Xử lý file: label\2025-05-14 13-32-51.000000_somsn9wwy7ycm_shippinglabel_1747204369_overlay_pdf_img_tiktok_76x130mm-1747204371-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:37,730 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:20:37,731 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-32-51.000000_somsn9wwy7ycm_shippinglabel_1747204369_overlay_pdf_img_tiktok_76x130mm-1747204371-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:37,733 - INFO - Xử lý file: label\2025-05-14 13-32-52.000000_somsna8jz3b7w_shippinglabel_1747204369_overlay_pdf_img_tiktok_76x130mm-1747204372-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:41,362 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:20:41,362 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-32-52.000000_somsna8jz3b7w_shippinglabel_1747204369_overlay_pdf_img_tiktok_76x130mm-1747204372-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:41,363 - INFO - Xử lý file: label\2025-05-14 13-32-52.000000_somsnj6siwfs1_shippinglabel_1747204369_overlay_pdf_img_tiktok_76x130mm-1747204372-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:44,686 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:20:44,687 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-32-52.000000_somsnj6siwfs1_shippinglabel_1747204369_overlay_pdf_img_tiktok_76x130mm-1747204372-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:44,689 - INFO - Xử lý file: label\2025-05-14 13-32-54.000000_somsn5wsdrcuq_shippinglabel_1747204370_overlay_pdf_img_tiktok_76x130mm-1747204374-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:48,205 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:20:48,206 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-32-54.000000_somsn5wsdrcuq_shippinglabel_1747204370_overlay_pdf_img_tiktok_76x130mm-1747204374-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:48,208 - INFO - Xử lý file: label\2025-05-14 13-32-54.000000_somsnijxwwj7r_shippinglabel_1747204369_overlay_pdf_img_tiktok_76x130mm-1747204374-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:51,750 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:20:51,751 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-32-54.000000_somsnijxwwj7r_shippinglabel_1747204369_overlay_pdf_img_tiktok_76x130mm-1747204374-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:51,753 - INFO - Xử lý file: label\2025-05-14 13-32-54.000000_somsnwe22hqbt_shippinglabel_1747204370_overlay_pdf_img_tiktok_76x130mm-1747204374-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:55,512 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:20:55,513 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-32-54.000000_somsnwe22hqbt_shippinglabel_1747204370_overlay_pdf_img_tiktok_76x130mm-1747204374-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:55,515 - INFO - Xử lý file: label\2025-05-14 13-32-54.000000_somsny6jg4ibv_shippinglabel_1747204369_overlay_pdf_img_tiktok_76x130mm-1747204374-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:58,411 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:20:58,413 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-32-54.000000_somsny6jg4ibv_shippinglabel_1747204369_overlay_pdf_img_tiktok_76x130mm-1747204374-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:20:58,415 - INFO - Xử lý file: label\2025-05-14 13-32-55.000000_somsn6jwv2wp1_shippinglabel_1747204370_overlay_pdf_img_tiktok_76x130mm-1747204375-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:21:02,384 - ERROR - Lỗi khi gọi API Gemini: Expecting value: line 1 column 1 (char 0)
+2025-05-14 14:21:02,385 - ERROR - Không thể lấy kết quả từ API Gemini cho file label\2025-05-14 13-32-55.000000_somsn6jwv2wp1_shippinglabel_1747204370_overlay_pdf_img_tiktok_76x130mm-1747204375-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:21:52,623 - INFO - Bắt đầu chạy script label-extract...
+2025-05-14 14:21:52,625 - INFO - Tìm thấy 101 file trong thư mục label
+2025-05-14 14:21:52,626 - INFO - Xử lý file: label\2025-05-14 13-28-51.000000_578833895827539120_shippinglabel_20250514_132851_overlay_pdf_img_tiktok_76x130mm-1747204131-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:21:56,362 - INFO - Phản hồi từ API Gemini: {
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"tracking_number\": \"859104299916\",\n  \"order_id\": \"578833895827539120\",\n  \"sender_address\": \"P&G Beauty Vi\u1ec7t Nam\\n96 \u0110\u01b0\u1eddng \u0110\u00e0o Tr\u00ed, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1\\nH\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn-028QQ703,\",\n  \"recipient_address\": \"Nguy\u1ec5n Th\u1ecb M\u00f3\\nG\u1ea7n nh\u00e0 D\u00e0n nh\u1ea1c Huy\\nHo\u00e0ng, Th\u00f4n T\u00e2n An,\\nX\u00e3 Ngh\u0129a An-255TPQ10, Th\u00e0nh ph\u1ed1 Qu\u1ea3ng Ng\u00e3i\\nQu\u1ea3ng Ng\u00e3i\"\n}\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.005302449067433675
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 502,
+    "candidatesTokenCount": 174,
+    "totalTokenCount": 676,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 244
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 174
+      }
+    ]
+  },
+  "modelVersion": "gemini-1.5-flash"
+}
+2025-05-14 14:21:56,365 - INFO - Đã lưu kết quả vào file: Output\859104299916.json
+2025-05-14 14:21:56,366 - INFO - Xử lý file: label\2025-05-14 13-28-54.000000_578833879339468463_shippinglabel_20250514_132854_overlay_pdf_img_tiktok_76x130mm-1747204134-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:21:59,911 - INFO - Phản hồi từ API Gemini: {
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"tracking_number\": \"859101560223\",\n  \"order_id\": \"578833879339468463\",\n  \"sender_address\": \"P&G Beauty Vi\u1ec7t Nam\\n96 \u0110\u01b0\u1eddng \u0110\u00e0o Tr\u00ed, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn-028QQ703,\",\n  \"recipient_address\": \"tr\u1ea7n th\u1ecb kim anh\\nx\u00f3m7, \u0111\u1ed9i9, \u0111\u00e0o \u0111\u1eb7ng, trung ngh\u0129a, th\u00e0nh ph\u1ed1 h\u01b0ng y\u00ean,\\nX\u00e3 Trung Ngh\u0129a-221TPH17, Th\u00e0nh ph\u1ed1 H\u01b0ng Y\u00ean H\u01b0ng Y\u00ean\"\n}\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.006055806515484872
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 502,
+    "candidatesTokenCount": 169,
+    "totalTokenCount": 671,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 244
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 169
+      }
+    ]
+  },
+  "modelVersion": "gemini-1.5-flash"
+}
+2025-05-14 14:21:59,914 - INFO - Đã lưu kết quả vào file: Output\859101560223.json
+2025-05-14 14:21:59,915 - INFO - Xử lý file: label\2025-05-14 13-28-56.000000_578833881085215832_shippinglabel_20250514_132856_overlay_pdf_img_tiktok_76x130mm-1747204136-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:22:03,784 - INFO - Phản hồi từ API Gemini: {
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"tracking_number\": \"859101339416\",\n  \"order_id\": \"578833881085215832\",\n  \"sender_address\": \"P&G Beauty Vi\u1ec7t Nam\\n96 \u0110\u01b0\u1eddng \u0110\u00e0o Tr\u00ed, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1\\nH\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn-028QQ703,\",\n  \"recipient_address\": \"B\u00f9i Thanh nhi\\n221 \u1ea4p Long Tr\u01b0\u1eddng 2, Long\\nTh\u1ea1nh, Long Tr\u01b0\u1eddng 2, Long\\nTh\u1ea1nh, Ph\u1ee5ng Hi\u1ec7p, H\u1eadu Giang,\\nX\u00e3 Long Th\u1ea1nh-293HPH08, Huy\u1ec7n Ph\u1ee5ng Hi\u1ec7p\\nH\u1eadu Giang\"\n}\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.0037049964531180785
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 502,
+    "candidatesTokenCount": 194,
+    "totalTokenCount": 696,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 244
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 194
+      }
+    ]
+  },
+  "modelVersion": "gemini-1.5-flash"
+}
+2025-05-14 14:22:03,788 - INFO - Đã lưu kết quả vào file: Output\859101339416.json
+2025-05-14 14:22:03,789 - INFO - Xử lý file: label\2025-05-14 13-28-59.000000_578833865841936374_shippinglabel_20250514_132859_overlay_pdf_img_tiktok_76x130mm-1747204139-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:22:07,933 - INFO - Phản hồi từ API Gemini: {
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"tracking_number\": \"859103319516\",\n  \"order_id\": \"578833865841936374\",\n  \"sender_address\": \"P&G Beauty Vi\u1ec7t Nam\\n96 \u0110\u01b0\u1eddng \u0110\u00e0o Tr\u00ed, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1\\nH\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn-028QQ703,\",\n  \"recipient_address\": \"Nguy\u1ec5n Th\u1ecb Quy\u00ean\\nKhu c\u00f4ng nghi\u1ec7p VSIP H\u1ea3i D\u01b0\u01a1ng, C\u1ea9m \u0110i\u1ec1n, C\u1ea9m\\nGi\u00e0ng, C\u00f4ng ty sheng shing nh\u00e0 x\u01b0\u1edfng C1-A L\u00f4 s\u1ed1\\n05 khu c\u00f4ng nghi\u1ec7p C\u1ea9m di\u1ec1n-L\u01b0\u01a1ng di\u1ec1n X\u00e3 C\u1ea9m\\n\u0110i\u1ec1n Huy\u1ec7n C\u1ea9m gi\u00e0ng t\u1ec9nh H\u1ea3i d\u01b0\u01a1ng\\nX\u00e3 C\u1ea9m \u0110i\u1ec1n-220HCG03, Huy\u1ec7n C\u1ea9m Gi\u00e0ng\\nH\u1ea3i D\u01b0\u01a1ng\"\n}\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.00038829585740659953
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 502,
+    "candidatesTokenCount": 229,
+    "totalTokenCount": 731,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 244
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 229
+      }
+    ]
+  },
+  "modelVersion": "gemini-1.5-flash"
+}
+2025-05-14 14:22:07,936 - INFO - Đã lưu kết quả vào file: Output\859103319516.json
+2025-05-14 14:22:07,938 - INFO - Xử lý file: label\2025-05-14 13-29-02.000000_578833895816201520_shippinglabel_20250514_132901_overlay_pdf_img_tiktok_76x130mm-1747204142-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:22:11,448 - INFO - Phản hồi từ API Gemini: {
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"tracking_number\": \"859106379716\",\n  \"order_id\": \"578833895816201520\",\n  \"sender_address\": \"P&G Beauty Vi\u1ec7t Nam\\n96 \u0110\u01b0\u1eddng \u0110\u00e0o Tr\u00ed, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1\\nH\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn-028QQ703,\",\n  \"recipient_address\": \"\u0110\u1ed7 H\u01b0\u01a1ng Giang\\nCT12C Kim V\u0103n Kim\\nL\u0169,\\nPh\u01b0\u1eddng \u0110\u1ea1i Kim-024QHM02, Qu\u1eadn Ho\u00e0ng Mai\\nH\u00e0 N\u1ed9i\"\n}\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.00011465018897345572
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 502,
+    "candidatesTokenCount": 165,
+    "totalTokenCount": 667,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 244
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 165
+      }
+    ]
+  },
+  "modelVersion": "gemini-1.5-flash"
+}
+2025-05-14 14:22:11,451 - INFO - Đã lưu kết quả vào file: Output\859106379716.json
+2025-05-14 14:22:11,453 - INFO - Xử lý file: label\2025-05-14 13-29-07.000000_578833895409420206_shippinglabel_20250514_132907_overlay_pdf_img_tiktok_76x130mm-1747204147-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:22:14,841 - INFO - Phản hồi từ API Gemini: {
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"tracking_number\": \"859105359716\",\n  \"order_id\": \"578833895409420206\",\n  \"sender_address\": \"P&G Beauty Vi\u1ec7t Nam\\n96 \u0110\u01b0\u1eddng \u0110\u00e0o Tr\u00ed, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1\\nH\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn-028QQ703,\",\n  \"recipient_address\": \"158 P. An D\u01b0\u01a1ng,\\nPh\u01b0\u1eddng Y\u00ean Ph\u1ee5-024QTH03, Qu\u1eadn T\u00e2y H\u1ed3\\nH\u00e0 N\u1ed9i\"\n}\n```"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.0007475480917961367
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 502,
+    "candidatesTokenCount": 155,
+    "totalTokenCount": 657,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 244
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 155
+      }
+    ]
+  },
+  "modelVersion": "gemini-1.5-flash"
+}
+2025-05-14 14:22:14,844 - INFO - Đã lưu kết quả vào file: Output\859105359716.json
+2025-05-14 14:22:14,845 - INFO - Xử lý file: label\2025-05-14 13-29-10.000000_578833837471860583_shippinglabel_20250514_132910_overlay_pdf_img_tiktok_76x130mm-1747204150-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:22:18,377 - INFO - Phản hồi từ API Gemini: {
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"tracking_number\": \"859105540823\",\n  \"order_id\": \"578833837471860583\",\n  \"sender_address\": \"P&G Beauty Vi\u1ec7t Nam\\n96 \u0110\u01b0\u1eddng \u0110\u00e0o Tr\u00ed, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1\\nH\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn-028QQ703,\",\n  \"recipient_address\": \"Ho\u00e0ng Th\u1ecb C\u1ea3nh\\n110 \u0110\u1eb7ng Ch\u00e2u Tu\u1ec7,\\nTh\u00e0nh ph\u1ed1 C\u1ea9m Ph\u1ea3,\\nPh\u01b0\u1eddng Quang Hanh-203TPC01, Th\u00e0nh ph\u1ed1 C\u1ea9m Ph\u1ea3\\nQu\u1ea3ng Ninh\"\n}\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.0003349083602767099
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 502,
+    "candidatesTokenCount": 176,
+    "totalTokenCount": 678,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 244
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 176
+      }
+    ]
+  },
+  "modelVersion": "gemini-1.5-flash"
+}
+2025-05-14 14:22:18,379 - INFO - Đã lưu kết quả vào file: Output\859105540823.json
+2025-05-14 14:22:18,379 - INFO - Xử lý file: label\2025-05-14 13-29-12.000000_578833879376102517_shippinglabel_20250514_132912_overlay_pdf_img_tiktok_76x130mm-1747204152-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:22:21,201 - INFO - Phản hồi từ API Gemini: {
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"tracking_number\": \"859103580823\",\n  \"order_id\": \"578833879376102517\",\n  \"sender_address\": \"P&G Beauty Vi\u1ec7t Nam\\n96 \u0110\u01b0\u1eddng \u0110\u00e0o Tr\u00ed, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1\\nH\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn-028QQ703,\",\n  \"recipient_address\": \"Linh\\ns\u1ed1 11 ng\u00f5 108 ng\u00e1ch 47\\n\u0111\u01b0\u1eddng Tr\u1ea7n Ph\u00fa H\u00e0 \u0110\u00f4ng,\\nPh\u01b0\u1eddng M\u1ed7 Lao-024QHD07, Qu\u1eadn H\u00e0 \u0110\u00f4ng\\nH\u00e0 N\u1ed9i\"\n}\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.00023783709515224803
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 502,
+    "candidatesTokenCount": 176,
+    "totalTokenCount": 678,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 244
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 176
+      }
+    ]
+  },
+  "modelVersion": "gemini-1.5-flash"
+}
+2025-05-14 14:22:21,204 - INFO - Đã lưu kết quả vào file: Output\859103580823.json
+2025-05-14 14:22:21,206 - INFO - Xử lý file: label\2025-05-14 13-29-15.000000_578833813733279106_shippinglabel_20250514_132915_overlay_pdf_img_tiktok_76x130mm-1747204155-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:22:24,925 - INFO - Phản hồi từ API Gemini: {
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"tracking_number\": \"859108540823\",\n  \"order_id\": \"578833813733279106\",\n  \"sender_address\": \"P&G Beauty Vi\u1ec7t Nam\\n96 \u0110\u01b0\u1eddng \u0110\u00e0o Tr\u00ed, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1\\nH\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn-028QQ703,\",\n  \"recipient_address\": \"Nguy\u1ec5n Lan\\n1 nghach 117/52 t\u1ed5 d\u00e2n\\nph\u1ed1 c\u01a1 khi y\u00ean vi\u00ean,\\nTh\u1ecb tr\u1ea5n Y\u00ean Vi\u00ean-024HGL01, Huy\u1ec7n Gia L\u00e2m\\nH\u00e0 N\u1ed9i\"\n}\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.00043165960482188635
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 502,
+    "candidatesTokenCount": 175,
+    "totalTokenCount": 677,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 244
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 175
+      }
+    ]
+  },
+  "modelVersion": "gemini-1.5-flash"
+}
+2025-05-14 14:22:24,929 - INFO - Đã lưu kết quả vào file: Output\859108540823.json
+2025-05-14 14:22:24,931 - INFO - Xử lý file: label\2025-05-14 13-29-17.000000_578833867011163443_shippinglabel_20250514_132917_overlay_pdf_img_tiktok_76x130mm-1747204158-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:22:28,578 - INFO - Phản hồi từ API Gemini: {
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"tracking_number\": \"859103580923\",\n  \"order_id\": \"578833867011163443\",\n  \"sender_address\": \"P&G Beauty Vi\u1ec7t Nam\\n96 \u0110\u01b0\u1eddng \u0110\u00e0o Tr\u00ed, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1\\nH\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn-028QQ703,\",\n  \"recipient_address\": \"Thanh Tr\u00fac\\nT\u1ea1p ho\u00e1 Thanh Tr\u00fac b\u1edd xe ch\u00e2u\\nth\u00e0nh ti\u1ec1n giang, \u0110\u1ed1i di\u1ec7n u\u1ef7 ban\\n\u1ea5p B\u1edd Xe\\nX\u00e3 Th\u1ea1nh Ph\u00fa-273HCT22, Huy\u1ec7n Ch\u00e2u Th\u00e0nh(TG)\\nTi\u1ec1n Giang\"\n}\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.0006136258092263471
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 502,
+    "candidatesTokenCount": 184,
+    "totalTokenCount": 686,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 244
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 184
+      }
+    ]
+  },
+  "modelVersion": "gemini-1.5-flash"
+}
+2025-05-14 14:22:28,586 - INFO - Đã lưu kết quả vào file: Output\859103580923.json
+2025-05-14 14:22:28,589 - INFO - Xử lý file: label\2025-05-14 13-29-20.000000_578833838258619816_shippinglabel_20250514_132920_overlay_pdf_img_tiktok_76x130mm-1747204160-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:22:32,098 - INFO - Phản hồi từ API Gemini: {
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"tracking_number\": \"859100479216\",\n  \"order_id\": \"578833838258619816\",\n  \"sender_address\": \"P&G Beauty Vi\u1ec7t Nam\\n96 \u0110\u01b0\u1eddng \u0110\u00e0o Tr\u00ed, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1\\nH\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn-028QQ703,\",\n  \"recipient_address\": \"Thi\\nB\u00e0 Giam A \u0110\u00f4n Xu\u00e2n\\nDuy\u00ean H\u1ea3i Tr\u00e0 Vinh,\\nX\u00e3 \u0110\u00f4n Xu\u00e2n-294HDH03, Huy\u1ec7n Duy\u00ean H\u1ea3i\\nTr\u00e0 Vinh\"\n}\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.00040330341336322807
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 502,
+    "candidatesTokenCount": 171,
+    "totalTokenCount": 673,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 244
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 171
+      }
+    ]
+  },
+  "modelVersion": "gemini-1.5-flash"
+}
+2025-05-14 14:22:32,100 - INFO - Đã lưu kết quả vào file: Output\859100479216.json
+2025-05-14 14:22:32,102 - INFO - Xử lý file: label\2025-05-14 13-29-23.000000_578833881215239981_shippinglabel_20250514_132922_overlay_pdf_img_tiktok_76x130mm-1747204163-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:22:35,885 - INFO - Phản hồi từ API Gemini: {
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"tracking_number\": \"859106479116\",\n  \"order_id\": \"578833881215239981\",\n  \"sender_address\": \"P&G Beauty Vi\u1ec7t Nam\\n96 \u0110\u01b0\u1eddng \u0110\u00e0o Tr\u00ed, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1\\nH\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn-028QQ703,\",\n  \"recipient_address\": \"khoa\\n\u0110\u1ecba ch\u1ec9 l\u00e0 E15/438 \u1ea5p 15 x\u00e3 Phong Ph\u00fa huy\u1ec7n\\nB\u00ecnh Ch\u00e1nh h\u1ebbm B\u1edd Bao HTX Phong Ph\u00fa ( h\u1ebbm\\nS\u00e1u D\u1eabu ) tr\u01b0\u1edbc h\u1ebdm l\u00e0 Honda Th\u1ecbnh Ph\u00e1t,\\nX\u00e3 Phong Ph\u00fa-028HBC10, Huy\u1ec7n B\u00ecnh Ch\u00e1nh\\nH\u1ed3 Ch\u00ed Minh\"\n}\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.001258552074432373
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 502,
+    "candidatesTokenCount": 212,
+    "totalTokenCount": 714,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 244
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 212
+      }
+    ]
+  },
+  "modelVersion": "gemini-1.5-flash"
+}
+2025-05-14 14:22:35,887 - INFO - Đã lưu kết quả vào file: Output\859106479116.json
+2025-05-14 14:22:35,887 - INFO - Xử lý file: label\2025-05-14 13-29-25.000000_578833814930360216_shippinglabel_20250514_132925_overlay_pdf_img_tiktok_76x130mm-1747204165-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:22:39,565 - INFO - Phản hồi từ API Gemini: {
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"tracking_number\": \"859103419316\",\n  \"order_id\": \"578833814930360216\",\n  \"sender_address\": \"P&G Beauty Vi\u1ec7t Nam\\n96 \u0110\u01b0\u1eddng \u0110\u00e0o Tr\u00ed, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1\\nH\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn-028QQ703,\",\n  \"recipient_address\": \"trinh\\n95 Tr\u1ea7n Qu\u00fd C\u00e1p, Nha\\nTrang,\\nPh\u01b0\u1eddng Ph\u01b0\u01a1ng S\u00e0i-258TPN08, Th\u00e0nh ph\u1ed1 Nha Trang\\nKh\u00e1nh H\u00f2a\"\n}\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.000696337187146566
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 502,
+    "candidatesTokenCount": 166,
+    "totalTokenCount": 668,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 244
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 166
+      }
+    ]
+  },
+  "modelVersion": "gemini-1.5-flash"
+}
+2025-05-14 14:22:39,567 - INFO - Đã lưu kết quả vào file: Output\859103419316.json
+2025-05-14 14:22:39,567 - INFO - Xử lý file: label\2025-05-14 13-29-28.000000_578833837499975143_shippinglabel_20250514_132927_overlay_pdf_img_tiktok_76x130mm-1747204168-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:22:44,671 - INFO - Phản hồi từ API Gemini: {
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"tracking_number\": \"859102680023\",\n  \"order_id\": \"578833837499975143\",\n  \"sender_address\": \"P&G Beauty Vi\u1ec7t Nam\\n96 \u0110\u01b0\u1eddng \u0110\u00e0o Tr\u00ed, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1\\nH\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn-028QQ703,\",\n  \"recipient_address\": \"Ng\u1ecdc Vy\\n\u0110inh ti\u00ean ho\u00e0ng,\\nPh\u01b0\u1eddng 2-277TPS02, Th\u00e0nh ph\u1ed1 Sa \u0110\u00e9c\\n\u0110\u1ed3ng Th\u00e1p\"\n}\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.00047240154817700385
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 502,
+    "candidatesTokenCount": 160,
+    "totalTokenCount": 662,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 244
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 160
+      }
+    ]
+  },
+  "modelVersion": "gemini-1.5-flash"
+}
+2025-05-14 14:22:44,673 - INFO - Đã lưu kết quả vào file: Output\859102680023.json
+2025-05-14 14:22:44,674 - INFO - Xử lý file: label\2025-05-14 13-29-31.000000_578833886305814190_shippinglabel_20250514_132931_overlay_pdf_img_tiktok_76x130mm-1747204171-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:22:47,480 - INFO - Phản hồi từ API Gemini: {
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"tracking_number\": \"859107680223\",\n  \"order_id\": \"578833886305814190\",\n  \"sender_address\": \"P&G Beauty Vi\u1ec7t Nam\\n96 \u0110\u01b0\u1eddng \u0110\u00e0o Tr\u00ed, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1\\nH\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn-028QQ703,\",\n  \"recipient_address\": \"nguy\u00ean th\u1ecb ch\u00e2u\\nth\u00f4n c\u01a1 1,\\nX\u00e3 V\u1ea1n Ph\u00e1i-208TXP18, Th\u1ecb x\u00e3 Ph\u1ed5 Y\u00ean\\nTh\u00e1i Nguy\u00ean\"\n}\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.0011839916003993684
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 502,
+    "candidatesTokenCount": 163,
+    "totalTokenCount": 665,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 244
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 163
+      }
+    ]
+  },
+  "modelVersion": "gemini-1.5-flash"
+}
+2025-05-14 14:22:47,484 - INFO - Đã lưu kết quả vào file: Output\859107680223.json
+2025-05-14 14:22:47,487 - INFO - Xử lý file: label\2025-05-14 13-29-33.000000_578833815111894713_shippinglabel_20250514_132933_overlay_pdf_img_tiktok_76x130mm-1747204173-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:22:51,337 - INFO - Phản hồi từ API Gemini: {
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"tracking_number\": \"859100499516\",\n  \"order_id\": \"578833815111894713\",\n  \"sender_address\": \"P&G Beauty Vi\u1ec7t Nam\\n96 \u0110\u01b0\u1eddng \u0110\u00e0o Tr\u00ed, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1\\nH\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam, Ph\u01b0\u1eddng Ph\u00fa Thu\u1eadn-028QQ703,\",\n  \"recipient_address\": \"Minh Khu\u00ea\\nNh\u00e0 M\u00e1y N\u01b0\u1edbc S\u1ea1ch An Thanh, X\u00f3m Nguy\u00ean\\nGi\u00e1p Th\u00f4n, Thanh K\u1ef3, T\u1ee9 K\u1ef3, t\u1eeb h\u01b0\u1edbng nh\u00e0 th\u1edd\\nx\u00f3m nguy\u00ean gi\u00e1p \u0111i l\u00ean \u0111\u00ea ngay ch\u1ed7 nh\u00e0 d\u1ed1c\\n\u0111\u00ea\\nX\u00e3 An Th\u00e0nh-220ITK02, Huy\u1ec7n T\u1ee9 K\u1ef3\\nH\u1ea3i D\u01b0\u01a1ng\"\n}\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.008140176975081119
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 502,
+    "candidatesTokenCount": 203,
+    "totalTokenCount": 705,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 244
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 203
+      }
+    ]
+  },
+  "modelVersion": "gemini-1.5-flash"
+}
+2025-05-14 14:22:51,339 - INFO - Đã lưu kết quả vào file: Output\859100499516.json
+2025-05-14 14:22:51,340 - INFO - Xử lý file: label\2025-05-14 13-29-41.000000_578833836394842066_shippinglabel_20250514_132936_overlay_pdf_img_tiktok_76x130mm-1747204181-overlay_pdf_img_tiktok_76x130mm.txt
+2025-05-14 14:22:51,405 - INFO - Dừng script bởi người dùng.
